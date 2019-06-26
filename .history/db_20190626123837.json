@@ -1,0 +1,46 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "200",
+      "nombrePlatillo": "Cheescake",
+      "categoria": "desserts",
+      "id": 1
+    },
+    {
+      "precioPlatillo": "300",
+      "nombrePlatillo": "Rib Eye 400g",
+      "categoria": "cuts",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "Ensalada Primavera",
+      "precioPlatillo": "100",
+      "categoria": "salad",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "Agua",
+      "precioPlatillo": "80",
+      "categoria": "drinks",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "jklsjdñflgjdñsl",
+      "precioPlatillo": "11",
+      "categoria": "desserts",
+      "id": 5
+    },
+    {
+      "nombrePlatillo": "Pastel de manzanaº",
+      "precioPlatillo": "100",
+      "categoria": "desserts",
+      "id": 6
+    },
+    {
+      "nombrePlatillo": "Tomate",
+      "precioPlatillo": "50",
+      "categoria": "salad",
+      "id": 7
+    }
+  ]
+}
